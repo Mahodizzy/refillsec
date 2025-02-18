@@ -1,0 +1,183 @@
+[
+    {
+        "id": "netflix",
+        "titulo": "Netflix 1 pantalla",
+        "imagen": "./img/Netflix/Netflix-1-Pantalla.png",
+        "categoria": {
+            "nombre": "Netflix",
+            "id": "netflix"
+        },
+        "precio": 3.50
+    },
+    {
+        "id": "disney+",
+        "titulo": "Disney (STAR + ESPN)",
+        "imagen": "./img/Disney/Disney-Star-1P.png",
+        "categoria": {
+            "nombre": "Disney+",
+            "id": "disney+"
+        },
+        "precio": 3.50
+    
+    },
+    {
+        "id": "Crunchyroll",
+        "titulo": "Crunchyroll 1 pantalla",
+        "imagen": "./img/Crunchyroll/Crunchyroll-Premium-Fan-1-PANTALLA-POR-30-DIAS.png",
+        "categoria": {
+            "nombre": "Crunchyroll",
+            "id": "crunchyroll"
+        },
+        "precio": 2
+    },
+    {
+        "id": "Prime video",
+        "titulo": "Prime video 1 Pantalla",
+        "imagen": "./img/Prime Video/PrimeVideo-1-PANTALLA-POR-30-DIAS.png",
+        "categoria": {
+            "nombre": "Prime video",
+            "id": "Prime video"
+        },
+        "precio": 2
+    },
+    {
+        "id": "canva",
+        "titulo": "Canva pro 1 mes",
+        "imagen": "./img/Canva/canva-pro2.jpg",
+        "categoria": {
+            "nombre": "Canva pro",
+            "id": "canva"
+        },
+        "precio": 1
+    },
+    {
+        "id": "magistv",
+        "titulo": "Magis TV 1 pantalla",
+        "imagen": "./img/Flujo tv/magis-tv-logo3.jpg",
+        "categoria": {
+            "nombre": "Magis TV",
+            "id": "magistv"
+        },
+        "precio": 3.5
+    },
+    {
+        "id": "max",
+        "titulo": "Max 1 pantalla",
+        "imagen": "./img/Max/MAX-STANDAR-2024.png",
+        "categoria": {
+            "nombre": "Max",
+            "id": "max"
+        },
+        "precio": 2
+    },
+    {
+        "id": "Youtube 1 mes",
+        "titulo": "Youtube 1 mes",
+        "imagen": "./img/Youtube/YouTube-Premium-logo.png",
+        "categoria": {
+            "nombre": "Youtube 1 mes",
+            "id": "Youtube 1 mes"
+        },
+        "precio": 2.5
+    },
+    {
+        "id": "netflix",
+        "titulo": "Netflix 2 pantallas",
+        "imagen": "./img/Netflix/Netflix-2-Pantallas.png",
+        "categoria": {
+            "nombre": "Netflix",
+            "id": "netflix"
+        },
+        "precio": 6
+    },
+    {
+        "id": "disney+",
+        "titulo": "Disney+ 2 pantallas",
+        "imagen": "./img/Disney/Disney-Star-2024-2pantallas.png",
+        "categoria": {
+            "nombre": "Disney+",
+            "id": "disney+"
+        },
+        "precio": 6
+    },
+    {
+        "id": "Crunchyroll",
+        "titulo": "Crunchyroll 2 pantallas",
+        "imagen": "./img/Crunchyroll/Crunchyroll-Premium-Fan-2-PANTALLAS-POR-30-DIAS.png",
+        "categoria": {
+            "nombre": "Crunchyroll",
+            "id": "crunchyroll"
+        },
+        "precio": 3.5
+    },
+    {
+        "id": "Prime video",
+        "titulo": "Prime video 2 pantallas",
+        "imagen": "./img/Prime Video/PrimeVideo-2-pantallas.png",
+        "categoria": {
+            "nombre": "Prime videos",
+            "id": "Prime video"
+        },
+        "precio": 3.5
+    },
+    {
+        "id": "Canva pro",
+        "titulo": "Canva pro 1 año",
+        "imagen": "./img/Canva/canva-pro2.jpg",
+        "categoria": {
+            "nombre": "Canva pro",
+            "id": "canva"
+        },
+        "precio": 10
+    },
+    {
+        "id": "magistv",
+        "titulo": "Magis TV 2 pantallas",
+        "imagen": "./img/Flujo tv/magis-tv-logo3.jpg",
+        "categoria": {
+            "nombre": "Magis TV",
+            "id": "magistv"
+        },
+        "precio": 6
+    },
+    {
+        "id": "netflix",
+        "titulo": "Netflix 3 pantallas",
+        "imagen": "./img/Netflix/Netflix-3-Pantallas.png",
+        "categoria": {
+            "nombre": "Netflix",
+            "id": "netflix"
+        },
+        "precio": 9
+    },
+    {
+        "id": "disney+",
+        "titulo": "Disney+ 3 pantallas",
+        "imagen": "./img/Disney/Disney-Star-2024-3-pantallas.png",
+        "categoria": {
+            "nombre": "Disney+",
+            "id": "disney+"
+        },
+        "precio": 9
+    },
+    {
+        "id": "max",
+        "titulo": "Max 2 pantallas",
+        "imagen": "./img/Max/MAX-STANDAR-2024.png",
+        "categoria": {
+            "nombre": "Max",
+            "id": "max"
+        },
+        "precio": 3.50
+    },
+    {
+        "id": "netflix",
+        "titulo": "Netflix cuenta completa",
+        "imagen": "./img/Netflix/Netflix-5-Pantallas.png",
+        "categoria": {
+            "nombre": "Netflix",
+            "id": "netflix"
+        },
+        "precio": 11
+    }
+]

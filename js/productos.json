@@ -2,7 +2,7 @@
     {
         "id": "netflix",
         "titulo": "Netflix 1 pantalla",
-        "imagen": "./img/Netflix/Netflix-1-Pantalla.png",
+        "imagen": "https://www.gamescenter.com.ec/wp-content/uploads/2021/11/Netflix-1-Pantalla.png",
         "categoria": {
             "nombre": "Netflix",
             "id": "netflix"

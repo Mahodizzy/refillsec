@@ -82,7 +82,7 @@
     {
         "id": "netflix",
         "titulo": "Netflix 2 pantallas",
-        "imagen": "./img/Netflix/Netflix-2-Pantallas.png",
+        "imagen": "https://www.gamescenter.com.ec/wp-content/uploads/2021/11/Netflix-2-Pantallas.png",
         "categoria": {
             "nombre": "Netflix",
             "id": "netflix"
@@ -142,7 +142,7 @@
     {
         "id": "netflix",
         "titulo": "Netflix 3 pantallas",
-        "imagen": "./img/Netflix/Netflix-3-Pantallas.png",
+        "imagen": "https://www.gamescenter.com.ec/wp-content/uploads/2021/11/Netflix-3-Pantallas.png",
         "categoria": {
             "nombre": "Netflix",
             "id": "netflix"
@@ -172,7 +172,7 @@
     {
         "id": "netflix",
         "titulo": "Netflix cuenta completa",
-        "imagen": "./img/Netflix/Netflix-5-Pantallas.png",
+        "imagen": "https://www.gamescenter.com.ec/wp-content/uploads/2024/01/Netflix-5-Pantallas.png",
         "categoria": {
             "nombre": "Netflix",
             "id": "netflix"

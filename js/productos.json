@@ -73,7 +73,7 @@
     {
         "id": "Youtube 1 mes",
         "titulo": "Youtube 1 mes",
-        "imagen": "./img/Youtube/YouTube-Premium-logo.png",
+        "imagen": "https://www.gamescenter.com.ec/wp-content/uploads/2024/12/YouTube-Premium-logo.png",
         "categoria": {
             "nombre": "Youtube 1 mes",
             "id": "Youtube 1 mes"
@@ -113,7 +113,7 @@
     {
         "id": "Prime video",
         "titulo": "Prime video 2 pantallas",
-        "imagen": "./img/Prime Video/PrimeVideo-2-pantallas.png",
+        "imagen": "https://www.gamescenter.com.ec/wp-content/uploads/2021/12/PrimeVideo-2-pantallas.png",
         "categoria": {
             "nombre": "Prime videos",
             "id": "Prime video"
@@ -163,7 +163,7 @@
     {
         "id": "max",
         "titulo": "Max 2 pantallas",
-        "imagen": "./img/Max/MAX-STANDAR-2024.png",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnqttRjrbzspKY_c7I0RocmtqlxEOtt_7q2w&s",
         "categoria": {
             "nombre": "Max",
             "id": "max"
